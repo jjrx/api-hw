@@ -50,6 +50,10 @@ As final considerations:
 
 * Lastly, remember -- this is a challenging activity. Push yourself! If you complete this task, then you can safely say that you've gained a strong mastery of the core foundations of data analytics and it will only go better from here. Good luck!
 
+## To-do List
+[ ] Add analysis
+[X] Export to csv
+[X] Clean up (remove cities output)w
 ## Copyright
 
 Data Boot Camp © 2018. All Rights Reserved.
